@@ -133,6 +133,7 @@ INSERT INTO `bans` (`id`, `userid`, `reason`, `unbantime`, `typeBan`, `bandate`)
 (449,	129,	'Stealing someone\'s username.',	0,	'deleted',	'0000-00-00 00:00:00.0'),
 (452,	94,	'Is under 13 years old.',	0,	'deleted',	'0000-00-00 00:00:00.0'),
 (455,	1109,	'Inappropriate username.',	999999999999999,	'deleted',	'2024-02-04 14:28:39.0'),
+(2,	3,	'This account is testing. username like sitetest1, is made by creator. Stay here for updates.',	9999999,	'deleted',	'2026-11-05 01:04:10.0'),
 (456,	153,	'Inappropriate username.',	999999999999999,	'deleted',	'2024-02-04 14:28:39.0'),
 (459,	3,	'Banned for your inappropriate behavior on MADBLOX\nThis ban is not appealable.',	0,	'deleted',	'2024-02-09 17:50:01.0'),
 (460,	45,	'Leaking the domain of MADBLOX.',	0,	'deleted',	'0000-00-00 00:00:00.0'),
